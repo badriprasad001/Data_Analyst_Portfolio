@@ -121,8 +121,8 @@ nav {
 }
 
 .profile-img {
-  width: 230px;
-  height:  280px;
+  width: 250px;
+  height:  320px;
   object-fit: cover;
   border-radius: 20px;
   border: 4px solid var(--accent);
@@ -484,6 +484,7 @@ footer {
     margin: 0;
   }
 }
+
 
 
 

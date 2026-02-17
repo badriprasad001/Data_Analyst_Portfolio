@@ -458,7 +458,7 @@ footer {
   }
 
   .profile-img {
-    width: 200px; /* mobile friendly size */
+    width: 250px; /* mobile friendly size */
     height: 300px;
     object-fit: contain; /* show full face */
     border-radius: 15px; /* modern rounded corners */
@@ -484,5 +484,6 @@ footer {
     margin: 0;
   }
 }
+
 
 
